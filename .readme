@@ -1,0 +1,10 @@
+ #  this include all the summary of the project and how to use it.
+
+# 1 the data preprocessing is done with the file beta1.ipynb
+# 2  the ml-model-absenteeism.ipynb file is where  the model is  defined and explanned
+# 3 model and scaler is the two pickled objects from the ml-model-absenteeism.ipynb so that it can be passed using the model to work upon the different dataset of same feature file.
+# 4 absenteeism-data is  the data set which is used for the train and test.
+# 5 absenteeism-new-data.csv is the sample file for prediction
+# 6 absenteeism-model.py is the python model to be used and can be  imported in any file.
+# 7 file test.ipynb is the notebook in  which these model is imported and tested on different dataset
+# 
